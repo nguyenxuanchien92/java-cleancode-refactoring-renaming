@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/java-cleancode-refactoring-renaming.iml" filepath="$PROJECT_DIR$/java-cleancode-refactoring-renaming.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/CleanCodeRenaming.iml" filepath="$PROJECT_DIR$/CleanCodeRenaming.iml" />
+>>>>>>> b1aabdc250cd101bdb79739c703eedd193642267
     </modules>
   </component>
 </project>
